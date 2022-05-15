@@ -1,0 +1,4 @@
+19:36:06.090 INFO  configuration.ListenerTest - Start in class---->  tests.LoginTests
+19:36:06.102 INFO  configuration.ListenerTest - Start---<=>loginSuccessHW
+19:36:07.685 INFO  configuration.ListenerTest - Test failed--->loginSuccessHW
+19:36:08.746 INFO  configuration.ListenerTest - Finish in class--->tests.LoginTests

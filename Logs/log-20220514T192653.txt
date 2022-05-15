@@ -1,0 +1,4 @@
+19:27:02.737 INFO  configuration.ListenerTest - Finish---->tests.LoginTests
+19:27:02.749 INFO  configuration.ListenerTest - Start---<=>loginSuccessHW
+19:27:18.063 INFO  configuration.ListenerTest - Test success--->loginSuccessHW
+19:27:20.662 INFO  configuration.ListenerTest - Finishtests.LoginTests
